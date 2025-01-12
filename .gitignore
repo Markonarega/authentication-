@@ -1,0 +1,33 @@
+# Node modules
+node_modules
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Operating system files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Build directories
+build/
+dist/
+
+# IDE or editor files
+.idea/
+.vscode/
+.project
+*.sublime-project
+*.sublime-workspace
+
+# Test and coverage directories
+coverage/
+
+# Dependency directories
+jspm_packages/
+
+# Miscellaneous
+*.swp
